@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Hangman.dir/main.cpp.o CMakeFiles/Hangman.dir/Word.cpp.o CMakeFiles/Hangman.dir/Game.cpp.o CMakeFiles/Hangman.dir/Dictionary.cpp.o CMakeFiles/Hangman.dir/InputHuman.cpp.o CMakeFiles/Hangman.dir/InputAI.cpp.o CMakeFiles/Hangman.dir/letter.cpp.o  -o Hangman 
